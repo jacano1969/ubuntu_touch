@@ -38,6 +38,7 @@
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
+  <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" />
   <project path="external/expat" name="CyanogenMod/android_external_expat" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
@@ -152,7 +153,6 @@
   <project path="ubuntu/uchroot" name="ubuntu/uchroot" revision="refs/heads/master" />
 
 <!-- CM10.1 for Shuttle P10an01 changes -->
-  <project path="bootable/recovery" name="TeamWin/Team-Win-Recovery-Project" remote="github" revision="refs/heads/twrp2.4"/>
   <project path="hardware/atheros_wifi_libs" name="scanno/android_hardware_atheros_wifi_libs" remote="github" revision="refs/heads/cm10.1" />
   <project path="external/wpa_supplicant_8" name="scanno/android_external_wpa_supplicant_8" remote="github" revision="refs/heads/cm10.1"/>
   <project path="device/nvidia/shuttle" name="scanno/android_device_nvidia_shuttle" remote="github" revision="refs/heads/cm10.1" >
